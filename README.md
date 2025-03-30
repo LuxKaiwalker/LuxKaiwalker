@@ -1,2 +1,1 @@
 - 👋 Hi, I’m @LuxKaiwalker
-- I'm new so please appreciate my incompetence :D
