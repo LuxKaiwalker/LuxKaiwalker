@@ -1,4 +1,4 @@
 - 👋 Hi, I am Vincent from Germany!
 - Please have consideration when reading my code as my code could be messy sometimes. I am giving my best though lmao
 - Currently, I am learning ML so i know *how* ChatGPT will take my future job
-- Now i have a homepage! You can find it [here](https://luxkaiwalker.github.io/homepage/).
+- Now I have a homepage! You can find it [here](https://luxkaiwalker.github.io/homepage/).
