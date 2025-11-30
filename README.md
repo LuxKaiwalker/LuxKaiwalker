@@ -1,4 +1,1 @@
-- 👋 Hi, I am Vincent from Germany!
-- Please have consideration when reading my code as my code could be messy sometimes. I am giving my best though lmao
-- Currently, I am learning haskell and functional programming.
-- I am interested in software development techniques!
+Hi
